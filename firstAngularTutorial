@@ -1,6 +1,24 @@
-Online at StackBlitz.com
+100DaysofCode Challenge
+Day 0 = July 2nd, 2020
+Day 100 = _______
 
-https://stackblitz.com/edit/angular-zs6f42?ctl=1&embed=1&file=src/app/app.component.ts
+((Need to learn MarkUp for improving my notes on GitHub))
+
+General List to Do:
+1. Learn Angular
+2. Learn TypeScript
+3. Learn MarkUp
+4. Refresh HTML5
+5. Learn CSS
+6. Create online site for my coding projects 
+7. Create online site for my digital & analog engineering projects from univ.
 
 
+I.  First projects are online at StackBlitz.com
+
+Day 0:  https://stackblitz.com/edit/angular-zs6f42?ctl=1&embed=1&file=src/app/app.component.ts
+  Just started
+
+Day 1:  https://stackblitz.com/edit/angular-zs6f42?file=src%2Fapp%2Fproduct-list%2Fproduct-list.component.html
+  Figured out how to find and eliminate doubled items like click buttons (notify me events).
 
