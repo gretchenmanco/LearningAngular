@@ -14,11 +14,18 @@ General List to Do:
 7. Create online site for my digital & analog engineering projects from univ.
 
 
-I.  First projects are online at StackBlitz.com
+I.  First project online at StackBlitz.com
+(((Days in reverse order, with latest entry at top of list)
 
-Day 0:  https://stackblitz.com/edit/angular-zs6f42?ctl=1&embed=1&file=src/app/app.component.ts
-  Just started
+
+Day 2:  https://stackblitz.com/edit/angular-zs6f42?file=src%2Fapp%2Fproduct-details%2Fproduct-details.component.html
+  Learned how to route between views and how to build lists that were referenced during the routing process; read Angular docs.
+  Also, began work on a twitter bot. Opened a Twitter development acct and requested a Cloud9 service account (wait 24hrs).
+
 
 Day 1:  https://stackblitz.com/edit/angular-zs6f42?file=src%2Fapp%2Fproduct-list%2Fproduct-list.component.html
   Figured out how to find and eliminate doubled items like click buttons (notify me events).
+
+Day 0:  https://stackblitz.com/edit/angular-zs6f42?ctl=1&embed=1&file=src/app/app.component.ts
+  Just started
 
